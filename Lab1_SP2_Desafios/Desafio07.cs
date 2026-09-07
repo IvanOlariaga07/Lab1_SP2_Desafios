@@ -42,5 +42,7 @@ namespace Lab1_SP2_Desafios
 
             lblSeleccion.Text = "Turno: " + turno + "   |   Modalidad: " + modalidad;
         }
+
+        
     }
 }
